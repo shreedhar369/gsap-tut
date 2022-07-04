@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+
+
+.box{
+    height: 100px;
+    width: 100px;
+    /* color: green; */
+    background-color: rgb(130, 23, 23);
+}
+.first{
+    height: 100vh;
+    background-color: yellowgreen;
+
+
+}
+.second{
+    height: 100vh;
+    background-color: yellowgreen;
+
+
+}
